@@ -1,4 +1,6 @@
 # Interplanetary Rover Scientific Project
+### [Winner fo the PCBWay 6th Project Design Contest Popular Prize]
+![0643478297422](https://github.com/user-attachments/assets/f41c87ae-bad5-4d1f-82cb-03abf41aadfe)
 
 Welcome to the **Interplanetary Rover Project**! This project serves as a platform to teach **robotics** and **STEM** concepts to students by challenging them to figure out how to build and modify their rover.
 
